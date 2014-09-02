@@ -5,21 +5,21 @@
    "created":true,
    "deleted":false,
    "forced":true,
-   "compare":"https://github.com/soltysh/git-webhook/commit/9bdc3a26ff93",
+   "compare":"https://github.com/soltysh/gitwebhook/commit/9bdc3a26ff93",
    "commits":[
       {
          "id":"9bdc3a26ff933b32f3e558636b58aea86a69f051",
          "distinct":true,
          "message":"Added license",
          "timestamp":"2014-08-28T16:55:36+02:00",
-         "url":"https://github.com/soltysh/git-webhook/commit/9bdc3a26ff933b32f3e558636b58aea86a69f051",
+         "url":"https://github.com/soltysh/gitwebhook/commit/9bdc3a26ff933b32f3e558636b58aea86a69f051",
          "author":{
             "name":"Maciej Szulik",
-            "email":"maszulik@redhat.com"
+            "email":"maciej.szulik@example.com"
          },
          "committer":{
             "name":"Maciej Szulik",
-            "email":"maszulik@redhat.com"
+            "email":"maciej.szulik@example.com"
          },
          "added":[
             "LICENSE"
@@ -37,14 +37,14 @@
       "distinct":true,
       "message":"Added license",
       "timestamp":"2014-08-28T16:55:36+02:00",
-      "url":"https://github.com/soltysh/git-webhook/commit/9bdc3a26ff933b32f3e558636b58aea86a69f051",
+      "url":"https://github.com/soltysh/gitwebhook/commit/9bdc3a26ff933b32f3e558636b58aea86a69f051",
       "author":{
          "name":"Maciej Szulik",
-         "email":"maszulik@redhat.com"
+         "email":"maciej.szulik@example.com"
       },
       "committer":{
          "name":"Maciej Szulik",
-         "email":"maszulik@redhat.com"
+         "email":"maciej.szulik@example.com"
       },
       "added":[
          "LICENSE"
@@ -58,59 +58,59 @@
    },
    "repository":{
       "id":23354788,
-      "name":"git-webhook",
-      "full_name":"soltysh/git-webhook",
+      "name":"gitwebhook",
+      "full_name":"soltysh/gitwebhook",
       "owner":{
          "name":"soltysh",
-         "email":"soltysh@gmail.com"
+         "email":"maciej.szulik@example.com"
       },
       "private":false,
-      "html_url":"https://github.com/soltysh/git-webhook",
+      "html_url":"https://github.com/soltysh/gitwebhook",
       "description":"Git webhook implementation in Go.",
       "fork":false,
-      "url":"https://github.com/soltysh/git-webhook",
-      "forks_url":"https://api.github.com/repos/soltysh/git-webhook/forks",
-      "keys_url":"https://api.github.com/repos/soltysh/git-webhook/keys{/key_id}",
-      "collaborators_url":"https://api.github.com/repos/soltysh/git-webhook/collaborators{/collaborator}",
-      "teams_url":"https://api.github.com/repos/soltysh/git-webhook/teams",
-      "hooks_url":"https://api.github.com/repos/soltysh/git-webhook/hooks",
-      "issue_events_url":"https://api.github.com/repos/soltysh/git-webhook/issues/events{/number}",
-      "events_url":"https://api.github.com/repos/soltysh/git-webhook/events",
-      "assignees_url":"https://api.github.com/repos/soltysh/git-webhook/assignees{/user}",
-      "branches_url":"https://api.github.com/repos/soltysh/git-webhook/branches{/branch}",
-      "tags_url":"https://api.github.com/repos/soltysh/git-webhook/tags",
-      "blobs_url":"https://api.github.com/repos/soltysh/git-webhook/git/blobs{/sha}",
-      "git_tags_url":"https://api.github.com/repos/soltysh/git-webhook/git/tags{/sha}",
-      "git_refs_url":"https://api.github.com/repos/soltysh/git-webhook/git/refs{/sha}",
-      "trees_url":"https://api.github.com/repos/soltysh/git-webhook/git/trees{/sha}",
-      "statuses_url":"https://api.github.com/repos/soltysh/git-webhook/statuses/{sha}",
-      "languages_url":"https://api.github.com/repos/soltysh/git-webhook/languages",
-      "stargazers_url":"https://api.github.com/repos/soltysh/git-webhook/stargazers",
-      "contributors_url":"https://api.github.com/repos/soltysh/git-webhook/contributors",
-      "subscribers_url":"https://api.github.com/repos/soltysh/git-webhook/subscribers",
-      "subscription_url":"https://api.github.com/repos/soltysh/git-webhook/subscription",
-      "commits_url":"https://api.github.com/repos/soltysh/git-webhook/commits{/sha}",
-      "git_commits_url":"https://api.github.com/repos/soltysh/git-webhook/git/commits{/sha}",
-      "comments_url":"https://api.github.com/repos/soltysh/git-webhook/comments{/number}",
-      "issue_comment_url":"https://api.github.com/repos/soltysh/git-webhook/issues/comments/{number}",
-      "contents_url":"https://api.github.com/repos/soltysh/git-webhook/contents/{+path}",
-      "compare_url":"https://api.github.com/repos/soltysh/git-webhook/compare/{base}...{head}",
-      "merges_url":"https://api.github.com/repos/soltysh/git-webhook/merges",
-      "archive_url":"https://api.github.com/repos/soltysh/git-webhook/{archive_format}{/ref}",
-      "downloads_url":"https://api.github.com/repos/soltysh/git-webhook/downloads",
-      "issues_url":"https://api.github.com/repos/soltysh/git-webhook/issues{/number}",
-      "pulls_url":"https://api.github.com/repos/soltysh/git-webhook/pulls{/number}",
-      "milestones_url":"https://api.github.com/repos/soltysh/git-webhook/milestones{/number}",
-      "notifications_url":"https://api.github.com/repos/soltysh/git-webhook/notifications{?since,all,participating}",
-      "labels_url":"https://api.github.com/repos/soltysh/git-webhook/labels{/name}",
-      "releases_url":"https://api.github.com/repos/soltysh/git-webhook/releases{/id}",
+      "url":"https://github.com/soltysh/gitwebhook",
+      "forks_url":"https://api.github.com/repos/soltysh/gitwebhook/forks",
+      "keys_url":"https://api.github.com/repos/soltysh/gitwebhook/keys{/key_id}",
+      "collaborators_url":"https://api.github.com/repos/soltysh/gitwebhook/collaborators{/collaborator}",
+      "teams_url":"https://api.github.com/repos/soltysh/gitwebhook/teams",
+      "hooks_url":"https://api.github.com/repos/soltysh/gitwebhook/hooks",
+      "issue_events_url":"https://api.github.com/repos/soltysh/gitwebhook/issues/events{/number}",
+      "events_url":"https://api.github.com/repos/soltysh/gitwebhook/events",
+      "assignees_url":"https://api.github.com/repos/soltysh/gitwebhook/assignees{/user}",
+      "branches_url":"https://api.github.com/repos/soltysh/gitwebhook/branches{/branch}",
+      "tags_url":"https://api.github.com/repos/soltysh/gitwebhook/tags",
+      "blobs_url":"https://api.github.com/repos/soltysh/gitwebhook/git/blobs{/sha}",
+      "git_tags_url":"https://api.github.com/repos/soltysh/gitwebhook/git/tags{/sha}",
+      "git_refs_url":"https://api.github.com/repos/soltysh/gitwebhook/git/refs{/sha}",
+      "trees_url":"https://api.github.com/repos/soltysh/gitwebhook/git/trees{/sha}",
+      "statuses_url":"https://api.github.com/repos/soltysh/gitwebhook/statuses/{sha}",
+      "languages_url":"https://api.github.com/repos/soltysh/gitwebhook/languages",
+      "stargazers_url":"https://api.github.com/repos/soltysh/gitwebhook/stargazers",
+      "contributors_url":"https://api.github.com/repos/soltysh/gitwebhook/contributors",
+      "subscribers_url":"https://api.github.com/repos/soltysh/gitwebhook/subscribers",
+      "subscription_url":"https://api.github.com/repos/soltysh/gitwebhook/subscription",
+      "commits_url":"https://api.github.com/repos/soltysh/gitwebhook/commits{/sha}",
+      "git_commits_url":"https://api.github.com/repos/soltysh/gitwebhook/git/commits{/sha}",
+      "comments_url":"https://api.github.com/repos/soltysh/gitwebhook/comments{/number}",
+      "issue_comment_url":"https://api.github.com/repos/soltysh/gitwebhook/issues/comments/{number}",
+      "contents_url":"https://api.github.com/repos/soltysh/gitwebhook/contents/{+path}",
+      "compare_url":"https://api.github.com/repos/soltysh/gitwebhook/compare/{base}...{head}",
+      "merges_url":"https://api.github.com/repos/soltysh/gitwebhook/merges",
+      "archive_url":"https://api.github.com/repos/soltysh/gitwebhook/{archive_format}{/ref}",
+      "downloads_url":"https://api.github.com/repos/soltysh/gitwebhook/downloads",
+      "issues_url":"https://api.github.com/repos/soltysh/gitwebhook/issues{/number}",
+      "pulls_url":"https://api.github.com/repos/soltysh/gitwebhook/pulls{/number}",
+      "milestones_url":"https://api.github.com/repos/soltysh/gitwebhook/milestones{/number}",
+      "notifications_url":"https://api.github.com/repos/soltysh/gitwebhook/notifications{?since,all,participating}",
+      "labels_url":"https://api.github.com/repos/soltysh/gitwebhook/labels{/name}",
+      "releases_url":"https://api.github.com/repos/soltysh/gitwebhook/releases{/id}",
       "created_at":1409063699,
       "updated_at":"2014-08-26T14:34:59Z",
       "pushed_at":1409238007,
-      "git_url":"git://github.com/soltysh/git-webhook.git",
-      "ssh_url":"git@github.com:soltysh/git-webhook.git",
-      "clone_url":"https://github.com/soltysh/git-webhook.git",
-      "svn_url":"https://github.com/soltysh/git-webhook",
+      "git_url":"git://github.com/soltysh/gitwebhook.git",
+      "ssh_url":"git@github.com:soltysh/gitwebhook.git",
+      "clone_url":"https://github.com/soltysh/gitwebhook.git",
+      "svn_url":"https://github.com/soltysh/gitwebhook",
       "homepage":null,
       "size":0,
       "stargazers_count":0,
@@ -131,6 +131,6 @@
    },
    "pusher":{
       "name":"soltysh",
-      "email":"soltysh@gmail.com"
+      "email":"maciej.szulik@example.com"
    }
 }

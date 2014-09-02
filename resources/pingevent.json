@@ -1,8 +1,8 @@
 {
    "zen":"Encourage flow.",
    "hook":{
-      "url":"https://api.github.com/repos/soltysh/git-webhook/hooks/2896466",
-      "test_url":"https://api.github.com/repos/soltysh/git-webhook/hooks/2896466/test",
+      "url":"https://api.github.com/repos/soltysh/gitwebhook/hooks/2896466",
+      "test_url":"https://api.github.com/repos/soltysh/gitwebhook/hooks/2896466/test",
       "id":2896466,
       "name":"web",
       "active":true,
@@ -11,7 +11,7 @@
       ],
       "config":{
          "secret":"",
-         "url":"http://ec2-54-89-50-196.compute-1.amazonaws.com:8081/webhook",
+         "url":"http://example.com/webhook",
          "content_type":"json",
          "insecure_ssl":"0"
       },
